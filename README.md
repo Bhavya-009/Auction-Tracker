@@ -14,12 +14,7 @@ Team compliance: Monitors minimum and maximum player constraints per team.<br>
 Clear auction logs with pricing and status updates for each player.
 
 # Key Points
-Rules are mentioned in the excel sheet<br>
-Minimum of 11 and maximum of 15 players per team are enforced.<br>
-Role requirements ensure balanced team composition.<br>
-Player bidding starts at 5 points, in increments of 5 points.<br>
-Highest priced bought player becomes team captain automatically.<br>
-Scalable for multiple teams and complex auction scenarios.
+Rules and other key points are mentioned in the excel sheet
 
 # Use Cases
 Sports league player auctions management.<br>
