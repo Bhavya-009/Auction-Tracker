@@ -1,4 +1,4 @@
-# Auction-Tracker
+# 🏏  Auction-Tracker
 This Auction Tracker Excel file manages player auctions for sports leagues, tracking player details, bids, team rosters, and budgets while enforcing auction rules. A Power BI file is also included, featuring interactive graphs for deeper insights and visual analysis, making it ideal for fantasy leagues and strategic team building.
 
 # Problems Solved
@@ -14,7 +14,7 @@ Team compliance: Monitors minimum and maximum player constraints per team.<br>
 Clear auction logs with pricing and status updates for each player.
 
 # Key Points
-# 🏏 Auction Tracker - Excel Project
+# Auction Tracker - Excel and Power BI Project
 
 ## Problem Statement
 Managing a player auction across multiple teams is complex. Each team has a limited budget, a fixed number of slots, and specific role requirements (e.g., batsmen, bowlers, all-rounders, wicket-keepers).  
